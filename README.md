@@ -1,4 +1,4 @@
-### Diego G. Cerpa
+### Diego Garrido Cerpa
 
 PhD student in Neuroscience (Chile). I build computational models of 
 cognition and analyze behavioral, EEG, and fMRI data.

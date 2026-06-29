@@ -13,7 +13,7 @@ cognition and analyze behavioral, EEG, and fMRI data.
 - Behavioral modeling and statistics: Python, R (lme4, brms, Stan)
 - Neuroimaging: MATLAB (EEGLAB, ERPLAB, SPM, rsHRF)
 - Infrastructure: Linux (Arch + Hyprland) and Windows workstations; 
-  Proxmox VE homelab (LXC, Tailscale, Cloudflare Tunnel)
+  Proxmox VE homelab (LXC, Tailscale)
 
 **Selected work.** See pinned repositories.
 
